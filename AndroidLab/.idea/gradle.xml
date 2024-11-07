@@ -22,6 +22,8 @@
             <option value="$PROJECT_DIR$/ch15_service" />
             <option value="$PROJECT_DIR$/ch16_provider" />
             <option value="$PROJECT_DIR$/ch17_database" />
+            <option value="$PROJECT_DIR$/ch18_network" />
+            <option value="$PROJECT_DIR$/ch19_map" />
             <option value="$PROJECT_DIR$/ch6_view" />
           </set>
         </option>
